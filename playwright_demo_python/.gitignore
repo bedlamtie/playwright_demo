@@ -1,0 +1,5 @@
+.idea
+build
+dist
+*.txt
+!requirements.txt
